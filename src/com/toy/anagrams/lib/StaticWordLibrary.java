@@ -128,7 +128,7 @@ final class StaticWordLibrary extends WordLibrary {
         "htaavoj",
         "ecvéitr",
         "ins gonsi",
-        "rtdacioialn"
+        "rtdacioialn" 
     };
     
     final static WordLibrary DEFAULT = new StaticWordLibrary();
